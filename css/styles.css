@@ -1,0 +1,71 @@
+/* global */
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+
+/* title */
+.colored-section {
+  background-color: #8758FF
+}
+
+/* navbar */
+.navbar {
+  padding-bottom: 7%
+}
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.brand-text {
+  color: #5CB8E4;
+}
+
+.about-title {
+  padding-bottom: 5%;
+}
+.about-paragraph {
+  padding: 3% 10% 5%;
+}
+
+.pricing-title {
+  padding-bottom: 3%;
+  color: #F2F2F2;
+}
+
+.price-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+.contact-title {
+  padding-top: 5%;
+}
+.contact-email {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+.btn {
+  color: #8758FF;
+}
+#title .container-fluid {
+  padding: 3% 10% 7%;
+}
+
+#about .container-fluid {
+  padding: 5% 10% 3%;
+}
+
+#pricing {
+  padding: 100px;
+}
+
+#title {
+  color: white;
+}
